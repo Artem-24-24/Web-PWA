@@ -1,0 +1,6 @@
+[submodule "dist"]
+	path = dist
+	url = https://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@github.com/Artem-24-24/page.git
+[submodule "Web-PWA"]
+	path = Web-PWA
+	url = https://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@github.com/Artem-24-24/Web-PWA.git
