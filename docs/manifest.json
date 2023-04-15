@@ -11,11 +11,6 @@
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
-    },
-    {
-      "src": "logo_images/logo250.png",
-      "sizes": "512x512",
-      "type": "image/png"
     }
   ]
 }
